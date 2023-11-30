@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lilu920408
-- 👀 I’m interested in study OS design ing
+- 👋 Hi, I’m seed
+- 👀 I’m interested in study OS designing
 - 🌱 I’m currently learning Linux & Harmony OS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
